@@ -69,6 +69,8 @@ const fetchWeather = async () => {
           <p>Sıcaklık: {weather.main.temp}°C</p>
           <p>Hava: {weather.weather[0].description}</p>
           <p>Nem: {weather.main.humidity}%</p>
+          <h1>hello</h1>
+          <b>asdfn</b>
         </div>
       )}
     </div>
